@@ -1,0 +1,5 @@
+*.Rhistory
+*.RData
+/shinyapp/rsconnect/
+/slidify/.chche/
+/slidify/assets/

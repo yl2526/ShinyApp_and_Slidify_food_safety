@@ -1,0 +1,12 @@
+base
+shiny
+slidifyLibraries
+googleVis
+rCharts
+dygraphs
+zoo
+xts
+htmlwidgets
+reshape2
+ggplot2
+scales
